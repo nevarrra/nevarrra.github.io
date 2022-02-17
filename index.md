@@ -1,5 +1,6 @@
 ## Aboout me
 
+My name is Mariya Brovkina. I am currently finishing my degree in Games and Apps Development at IADE - Creative University in Lisbon, Portugal.
 
 ## Projects
 
