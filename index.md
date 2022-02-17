@@ -1,6 +1,7 @@
-## Aboout me
+## About me
 
-My name is Mariya Brovkina. I am currently finishing my degree in Games and Apps Development at IADE - Creative University in Lisbon, Portugal.
+My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Bachelor's in Games and Apps Development at IADE - Creative University in Lisbon, Portugal.
+
 
 ## Projects
 
@@ -8,27 +9,27 @@ My name is Mariya Brovkina. I am currently finishing my degree in Games and Apps
 
 ### University Projects 
 
-[Total Neon Resonance](/sample_page)
+#### [Total Neon Resonance](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Metanoia](/pdf/sample_presentation.pdf)
+#### [Metanoia](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Singing Sands](http://example.com/)
+#### [[Singing Sands](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Planet Aqua (Hackathon Android App)](http://example.com/)
+#### [[Planet Aqua (Hackathon Android App)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Twisted Hood](http://example.com/)
+#### [[Twisted Hood](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Little Howling Hood](http://example.com/)
+#### [[Little Howling Hood](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2

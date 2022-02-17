@@ -1,6 +1,13 @@
-## This can be your internal website page / project page
+## Total Neon Resonance
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### **About the project** 
+
+*Thousands of years into the future, humanity is no longer on planet Earth. But the artificial intelligence they have created still persists. Able to command any machine on the planet, the weather and sustain itself, living on an empty planet, it develops feelings for its creators. Nostalgic of the past, when the planet was still lively and full of sound, the AI creates an environment where the two most powerful creations combine: machines and music.*
+
+Total Neon Resonance is a multiplayer rhythm racing prototype where players will race off against each other while trying to drive in the beat of the song and keeping others from doing the same.
+It was developed in Unreal Engine 4 with C++ for Windows PC.
+
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
