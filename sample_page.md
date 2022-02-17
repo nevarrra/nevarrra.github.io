@@ -21,7 +21,13 @@ For the multiplayer part, TNR runs on a UE4 dedicated server with an external Ma
 ### **Media**
 
 #### *Trailer*
+
+[![Trailer Link](https://img.youtube.com/vi/Y68hBi5FOo/0.jpg)](https://youtu.be/-Y68hBi5FOo)
+
 #### *Spec Sheet*
+
+[TNR Spec Sheet](/pdf/Spec.pdf)
+
 
 GDD is also available upon request.
 
