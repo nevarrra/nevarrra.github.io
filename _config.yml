@@ -1,5 +1,6 @@
 title: Mariya Brovkina # your name (or website title) here
-logo: <img align= "left" src="/images/mylogo.jpeg" alt="mypic"/>
+ 
+<img align= "left" src="/images/mylogo.jpeg" alt="mypic"/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my Portfolio Page
   <br><br>
