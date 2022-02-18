@@ -1,6 +1,6 @@
 title: Mariya Brovkina # your name (or website title) here
-#logo: "/images/mylogo.jpeg?raw=true" # your photo (or logo) here
-<img src="/images/mylogo.jpeg" alt="mylogo" width="200"/>
+logo: "/images/mylogo.jpeg?raw=true" # your photo (or logo) here
+#<img src="/images/mylogo.jpeg" alt="mylogo" width="200"/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my Portfolio Page
   <br><br>
