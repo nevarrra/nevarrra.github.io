@@ -9,27 +9,27 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 
 ### University Projects 
 
-#### [Total Neon Resonance](/totalneonresonance)
+### [Total Neon Resonance](/totalneonresonance)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Metanoia](/metanoia)
+### [Metanoia](/metanoia)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [[Singing Sands](http://example.com/)
+### [[Singing Sands](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [[Planet Aqua (Hackathon Android App)](http://example.com/)
+### [[Planet Aqua (Hackathon Android App)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [[Twisted Hood](http://example.com/)
+### [[Twisted Hood](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [[Little Howling Hood](http://example.com/)
+### [[Little Howling Hood](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
