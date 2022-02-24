@@ -1,6 +1,6 @@
 ## Total Neon Resonance
 
-Developed by Mariya Brovkina and Pedro Nande.
+Developed in cooperation with Pedro Nande.
 
 ### **About the project** 
 
@@ -11,6 +11,7 @@ Developed by Mariya Brovkina and Pedro Nande.
 + **Target Audience:** Teenagers and young adults;
 + **Target Platform:** Windows PC;
 + **Engine/Tools:** Unreal Engine 4.27, C++.
++ **Development Time (approx.)** 2 months.
 
 *Thousands of years into the future, humanity is no longer on planet Earth. But the artificial intelligence they have created still persists. Able to command any machine on the planet, the weather and sustain itself, living on an empty planet, it develops feelings for its creators. Nostalgic of the past, when the planet was still lively and full of sound, the AI creates an environment where the two most powerful creations combine: machines and music.*
 
