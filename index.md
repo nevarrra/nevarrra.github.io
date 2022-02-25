@@ -15,7 +15,7 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 
 ---
 ### [Metanoia](/metanoia)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/metanoia1.png?raw=true"/>
 
 ---
 ### [Singing Sands](/singingsands)
