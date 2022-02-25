@@ -17,31 +17,20 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [[Singing Sands](http://example.com/)
+### [Singing Sands](/singingsands)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [[Planet Aqua (Hackathon Android App)](http://example.com/)
+### [Planet Aqua (Hackathon Android App)](/planetaqua)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [[Twisted Hood](http://example.com/)
+### [Twisted Hood](/twistedhood)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### [[Little Howling Hood](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 

@@ -1,16 +1,16 @@
 ## Singing Sands
 
-Developed with the help of Vasco Correia.
+Developed with the assistance of Vasco Correia.
 
 ### **About the project** 
 
 #### **Specifications**
 
 + **Genre:** Fighting;
-+ **Single/Multiplayer:** Loccal Multiplayer;
++ **Single/Multiplayer:** Local Multiplayer;
 + **Target Audience:** Teenagers, adults;
 + **Target Platform:** Windows PC & Android OS;
-+ **Engine/Tools:** Unity, Android Studio, C#, Kotlin, SQL.
++ **Engine/Tools:** Unity, Android Studio, C#, Kotlin, SQL;
 + **Development Time (approx.)** 2.5 months.
 
 *In the desert known as Singing Sands the lands have been corrupted by the God of Chaos. The sacred sands of the desert now imbued with the corruption of the God formed artifacts that started being highly sought by all creatures of the world. Motivated by greed and power the chaotic spirits started trying to accumulate as much

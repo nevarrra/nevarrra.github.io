@@ -10,7 +10,7 @@ Cross-project between Games Development (Mariya Brovkina, Gabriel Vergari) and G
 + **Single/Multiplayer:** Single player;
 + **Target Audience:** Young adults;
 + **Target Platform:** Windows PC & MacOS;
-+ **Engine/Tools:** Unity, C#.
++ **Engine/Tools:** Unity, C#;
 + **Development Time (approx.)** 3 months.
 
 *There once was an ordinary family with loving parents and a child. They lived happily, and the bond between the child and his mother has always been especially strong. Until one day, the mother has disappeared. The father would tell the child a fairy tale, where the mother has become a princess and went to rule over a magical castle, living happily ever after. The child, fascinated by the story, would ask his father to retell it again and again in slightest details every night. One night, the child, missing his mother so much, has decided to go and visit her in the castle. He grabbed his plushy and a backpack and headed outside. Navigating with the details from the fairy tale, he followed his mother’s favourite flowers and finally arrived at the  castle...*
@@ -42,7 +42,7 @@ My input as a developer was focused around:
 
 + Artificial Intelligence 
 
-*I have implemented a Pluggable Finite State Machine for different kinds of NPCs and enemies; designed, programmed and maintained throughout every phase of the development the behaviours for most of the Shadows, Imaginary Friends and static NPCs. I was responsible for the performance and scalability of the AI.*
+*I have implemented a Pluggable Finite State Machine for different kinds of NPCs and enemies; designed, programmed and maintained throughout every phase of the development the behaviours for most of the Shadows, Imaginary Friends and static NPCs. Part of my work was also connected to the implementation of the pathfinding algorithms and randomness in the characters' behaviour. I was responsible for the performance and scalability of the AI.*
 
 + Dialogue System
 
