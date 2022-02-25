@@ -29,7 +29,7 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [[Little Howling Hood](http://example.com/)
+### [[Little Howling Hood](/littlehowlinghood)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 

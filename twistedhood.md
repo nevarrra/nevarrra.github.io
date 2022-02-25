@@ -40,4 +40,4 @@ GDD is also available upon request.
 
 ### **My Input**
 
-Due to certain circumstances, I have worked on this project alone, and every phase of the development was tackled by myself.
+I have worked on this project alone, and every phase of the development was tackled by myself.
