@@ -35,7 +35,7 @@ In the companion app, however, they are able to create their own items (runes), 
 
 #### *Spec Sheet*
 
-[TNR Spec Sheet](/pdf/Spec.pdf)
+[Singing Sands Spec Sheet](/pdf/SSSpec.pdf)
 
 
 GDD is also available upon request.
