@@ -1,5 +1,9 @@
 ## Singing Sands
 
+
+<img src="images/ss0.png?raw=true"/>
+
+
 Developed with the assistance of Vasco Correia.
 
 ### **About the project** 
@@ -20,6 +24,10 @@ Singing Sands is a 2D fighting local multiplayer prototype game for Windows, fea
 In the companion app, however, they are able to create their own items (runes), by drawing their visual representation and setting up their attributes. The balancing works by reducing other attributes, so that, for example, when players decide to max up the attack speed provided by the rune, they will lose a significant amount of attack damage. The companion app is synchronized with the game, and once a rune is equipped, the changes will be displayed in the main game.
 
 ### **Media**
+
+
+<img src="images/ss2.png?raw=true"/>
+
 
 #### *Trailer*
 
@@ -46,5 +54,9 @@ My work in this project was tightly connected to:
 
 + Database
 
-*I have set up the database and managed all of the queries for this project.*
+*I have set up the database and managed all of the queries for this project.*  
+
++ Production planning & Sprint Reports
+
+*I was responsible for the project planning and preparation of sprint report documents on a weekly basis.*
 

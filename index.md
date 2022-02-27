@@ -1,6 +1,5 @@
-## About me
+## Welcome to my Portfolio Page!  
 
-Welcome to my Portfolio Page!  
 My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Bachelor's in Games and Apps Development at IADE, European University in Lisbon, Portugal.  
 [See my Resume](/pdf/MariaBrovkinaResume.pdf)
 
@@ -19,7 +18,7 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 
 ---
 ### [Singing Sands](/singingsands)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ss1.png?raw=true"/>
 
 ---
 ### [Planet Aqua (Hackathon Android App)](/planetaqua)
