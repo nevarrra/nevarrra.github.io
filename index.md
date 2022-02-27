@@ -22,11 +22,11 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 
 ---
 ### [Planet Aqua (Hackathon Android App)](/planetaqua)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/paqua1.png?raw=true"/>
 
 ---
 ### [Twisted Hood](/twistedhood)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/th0.png?raw=true"/>
 
 ---
 ### [Little Howling Hood](/littlehowlinghood)

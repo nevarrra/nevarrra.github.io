@@ -1,5 +1,9 @@
 ## Twisted Hood
 
+
+<img src="images/th1.png?raw=true"/>
+
+
 This is my first Web Project, developed solo during the second semester at IADE - Creative University. 
 
 ### **About the project** 
@@ -27,13 +31,13 @@ Due to the time constraints, the visuals of the vertical slice were not fully po
 
 ### **Media**
 
+<img src="images/th2.png?raw=true"/>
 
-#### *Trailer*
 
-[![Trailer Link](https://img.youtube.com/vi/AFegcuIMJ3k/0.jpg)](https://youtu.be/AFegcuIMJ3k)
+#### *Demonstration*
 
-#### *Presentation*
 
+[Twisted Hood Demonstration](/videos/ThDemo.mp4)
 
 
 GDD is also available upon request.
