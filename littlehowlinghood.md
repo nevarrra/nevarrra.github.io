@@ -31,7 +31,7 @@ As part of the requirements for this project, all of the visual assets, animatio
 
 <img src="images/lhh2.gif?raw=true"/>
 
-<img src="images/lhh3.gif?raw=true"/>
+<img src="images/lhh3.png?raw=true"/>
 
 
 #### *Trailer*
