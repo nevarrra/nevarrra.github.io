@@ -1,9 +1,9 @@
 title: Mariya Brovkina # your name (or website title) here
 logo: "/images/mylogo1.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+description: | # your text below (remove <br> elements if you don't need line breaks)
+ 
   Email: kandushk@gmail.com 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/maria-brovkina-45139b15b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
