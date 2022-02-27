@@ -31,7 +31,7 @@ In the companion app, however, they are able to create their own items (runes), 
 
 #### *Trailer*
 
-[![Trailer Link](https://img.youtube.com/vi/Y68hBi5FOo/0.jpg)](https://youtu.be/-Y68hBi5FOo)
+[Singing Sands Trailer](/videos/SSTrailer.mp4)
 
 #### *Spec Sheet*
 

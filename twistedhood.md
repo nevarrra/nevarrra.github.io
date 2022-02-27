@@ -37,7 +37,7 @@ Due to the time constraints, the visuals of the vertical slice were not fully po
 #### *Demonstration*
 
 
-[Twisted Hood Demonstration](/videos/ThDemo.mp4)
+[![Demo Link](https://img.youtube.com/vi/Y68hBi5FOo/0.jpg)](https://youtu.be/-Y68hBi5FOo)
 
 
 GDD is also available upon request.
