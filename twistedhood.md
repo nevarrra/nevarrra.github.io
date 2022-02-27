@@ -37,7 +37,7 @@ Due to the time constraints, the visuals of the vertical slice were not fully po
 #### *Demonstration*
 
 
-[![Demo Link](https://img.youtube.com/vi/Y68hBi5FOo/0.jpg)](https://youtu.be/-Y68hBi5FOo)
+[![Demo Link](https://img.youtube.com/vi/Js9KPrEnMmI/0.jpg)](https://youtu.be/Js9KPrEnMmI)
 
 
 GDD is also available upon request.

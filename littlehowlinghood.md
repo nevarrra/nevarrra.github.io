@@ -1,5 +1,9 @@
 ## Little Howling Hood
 
+
+<img src="images/lhh1.gif?raw=true"/>
+
+
 This is my first game-project, made in cooperation with Miguel Costa.
 
 ### **About the project** 
@@ -25,10 +29,14 @@ As part of the requirements for this project, all of the visual assets, animatio
 
 ### **Media**
 
+<img src="images/lhh2.gif?raw=true"/>
+
+<img src="images/lhh3.gif?raw=true"/>
+
 
 #### *Trailer*
 
-[![Trailer Link](https://img.youtube.com/vi/AFegcuIMJ3k/0.jpg)](https://youtu.be/AFegcuIMJ3k)
+[Little Howling Hood Trailer](/videos/LHHTrailer.mp4)
 
 #### *Spec Sheet*
 
