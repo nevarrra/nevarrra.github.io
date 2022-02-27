@@ -7,7 +7,7 @@ My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Ba
 
 ---
 
-### University Projects 
+## University Projects 
 
 ## [Total Neon Resonance](/totalneonresonance)
 <img src="images/tnr0.png?raw=true"/>
