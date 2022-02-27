@@ -1,5 +1,9 @@
 ## Metanoia
 
+
+<img src="images/metanoia2.png?raw=true"/>
+
+
 Cross-project between Games Development (Mariya Brovkina, Gabriel Vergari) and Global Design (Diana Silva, Daniela Diniz, Joana Bento, Camila Levin, Catarina Costa) courses. The team was named Merakkie Studios and participated in **Playstation Awards Portugal: 7th Edition**, becoming the 4th finalist in the competition.
 
 ### **About the project** 
@@ -22,8 +26,13 @@ One of the player's tasks is to keep the heartbeat rate of the Child at normal v
 
 ### **Media**
 
+
+<img src="images/metanoia3.png?raw=true"/>
+
+
 #### *Playstation Awards*
 
+[Link](/images/ps.png)(https://www.actigamer.pt/noticias/finalistas-da-7a-edicao-dos-premios-playstation-talents-em-portugal/)
 
 #### *Trailer*
 

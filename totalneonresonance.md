@@ -1,6 +1,9 @@
 ## Total Neon Resonance  
 
 
+<img src="images/tnr1.png?raw=true"/>
+
+
 Developed in cooperation with Pedro Nande.
 
 ### **About the project** 
