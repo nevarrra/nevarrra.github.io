@@ -32,7 +32,9 @@ One of the player's tasks is to keep the heartbeat rate of the Child at normal v
 
 #### *Playstation Awards*
 
-[Link](/images/ps.png)(https://www.actigamer.pt/noticias/finalistas-da-7a-edicao-dos-premios-playstation-talents-em-portugal/)
+
+[![Link](/images/ps.png)](https://www.actigamer.pt/noticias/finalistas-da-7a-edicao-dos-premios-playstation-talents-em-portugal/)
+
 
 #### *Trailer*
 
