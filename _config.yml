@@ -2,9 +2,10 @@ title: Mariya Brovkina # your name (or website title) here
 logo: "/images/mylogo1.png?raw=true" # your photo (or logo) here
 description: | # your text below (remove <br> elements if you don't need line breaks)
  
-  Email: kandushk@gmail.com |
-  
+  Email: kandushk@gmail.com 
+  \n
   <a href="https://www.linkedin.com/in/maria-brovkina-45139b15b/">View My LinkedIn Profile</a> 
+  \n
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
