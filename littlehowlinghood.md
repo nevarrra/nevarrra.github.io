@@ -40,7 +40,7 @@ As part of the requirements for this project, all of the visual assets, animatio
 
 #### *Spec Sheet*
 
-[TNR Spec Sheet](/pdf/Spec.pdf)
+[Little Howling Hood Spec Sheet](/pdf/LHHSpec.pdf)
 
 
 GDD is also available upon request.
