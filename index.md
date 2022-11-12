@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio Page!  
 
-My name is Mariya Brovkina. I am an aspiring Game Dev, currently finishing my Bachelor's in Games and Apps Development at IADE, European University in Lisbon, Portugal.  
+My name is Mariya Brovkina. I am an aspiring Game Dev, recently graduated from IADE - European University, and currently doing my internship as a Software Engineer at FARFETCH.  
 [See my Resume](/pdf/MariaBrovkinaResume.pdf)
 
 ## Projects
