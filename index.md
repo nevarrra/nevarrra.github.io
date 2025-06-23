@@ -1,7 +1,7 @@
 ## Welcome to my Portfolio Page!  
 
 My name is Mariya Brovkina. I am an aspiring Game Dev and a Software Engineer, graduated from IADE - European University.  
-[See my Resume](/pdf/MariaBrovkinaResume.pdf)
+[See my Resume](/pdf/ResumeMariaBrovkina.pdf)
 
 ## Projects
 
